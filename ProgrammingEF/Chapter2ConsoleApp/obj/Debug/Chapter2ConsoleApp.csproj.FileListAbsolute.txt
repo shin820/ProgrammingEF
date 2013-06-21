@@ -1,0 +1,8 @@
+E:\AdventureWorks\ProgrammingEF\ProgrammingEF\Chapter2ConsoleApp\bin\Debug\Chapter2ConsoleApp.exe.config
+E:\AdventureWorks\ProgrammingEF\ProgrammingEF\Chapter2ConsoleApp\bin\Debug\Chapter2ConsoleApp.exe
+E:\AdventureWorks\ProgrammingEF\ProgrammingEF\Chapter2ConsoleApp\bin\Debug\Chapter2ConsoleApp.pdb
+E:\AdventureWorks\ProgrammingEF\ProgrammingEF\Chapter2ConsoleApp\bin\Debug\EntityFramework.dll
+E:\AdventureWorks\ProgrammingEF\ProgrammingEF\Chapter2ConsoleApp\bin\Debug\EntityFramework.xml
+E:\AdventureWorks\ProgrammingEF\ProgrammingEF\Chapter2ConsoleApp\obj\Debug\Chapter2ConsoleApp.csprojResolveAssemblyReference.cache
+E:\AdventureWorks\ProgrammingEF\ProgrammingEF\Chapter2ConsoleApp\obj\Debug\Chapter2ConsoleApp.exe
+E:\AdventureWorks\ProgrammingEF\ProgrammingEF\Chapter2ConsoleApp\obj\Debug\Chapter2ConsoleApp.pdb
